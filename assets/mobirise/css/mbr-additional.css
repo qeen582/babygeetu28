@@ -1340,33 +1340,6 @@ body {
 .cid-qGuWT6wl7C {
   background-color: #787324;
 }
-.cid-qGuZ8IZjye {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
-}
-.cid-qGuZ8IZjye .title {
-  margin-bottom: 2rem;
-}
-.cid-qGuZ8IZjye .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-qGuZ8IZjye a:not([href]):not([tabindex]) {
-  color: #fff;
-  border-radius: 3px;
-}
-.cid-qGuZ8IZjye a.btn-white:not([href]):not([tabindex]) {
-  color: #333;
-}
-.cid-qGuZ8IZjye .multi-horizontal {
-  flex-grow: 1;
-  -webkit-flex-grow: 1;
-  max-width: 100%;
-}
-.cid-qGuZ8IZjye .input-group-btn {
-  display: block;
-  text-align: center;
-}
 .cid-qGxaHrMRSg .navbar {
   padding: .5rem 0;
   background: #333333;
@@ -1733,6 +1706,90 @@ body {
 @media (min-width: 767px) {
   .cid-qGxaHrMRSg .menu-logo {
     flex-shrink: 0;
+  }
+}
+.cid-qHUPpnnhST {
+  background: #ffffff;
+}
+.cid-qHUPpnnhST .video-block {
+  margin: auto;
+  width: 100% !important;
+}
+@media (max-width: 768px) {
+  .cid-qHUPpnnhST .video-block {
+    width: 100% !important;
+  }
+}
+.cid-qHUQerF3lO {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-qHUQerF3lO .title {
+  margin-bottom: 2rem;
+}
+.cid-qHUQerF3lO .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-qHUQerF3lO a:not([href]):not([tabindex]) {
+  color: #fff;
+  border-radius: 3px;
+}
+.cid-qHUQerF3lO a.btn-white:not([href]):not([tabindex]) {
+  color: #333;
+}
+.cid-qHUQerF3lO .multi-horizontal {
+  flex-grow: 1;
+  -webkit-flex-grow: 1;
+  max-width: 100%;
+}
+.cid-qHUQerF3lO .input-group-btn {
+  display: block;
+  text-align: center;
+}
+.cid-qHUQq7U5Yh {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-qHUQq7U5Yh .socicon-bg-facebook {
+  background: #3e5b98;
+  color: #ffffff;
+}
+.cid-qHUQq7U5Yh .socicon-bg-twitter {
+  background: #4da7de;
+  color: #ffffff;
+}
+.cid-qHUQq7U5Yh .socicon-bg-googleplus {
+  background: #dd4b39;
+  color: #ffffff;
+}
+.cid-qHUQq7U5Yh .socicon-bg-vkontakte {
+  background: #5a7fa6;
+  color: #ffffff;
+}
+.cid-qHUQq7U5Yh .socicon-bg-odnoklassniki {
+  background: #f48420;
+  color: #ffffff;
+}
+.cid-qHUQq7U5Yh .socicon-bg-pinterest {
+  background: #c92619;
+  color: #ffffff;
+}
+.cid-qHUQq7U5Yh .socicon-bg-mail {
+  background: #134785;
+  color: #ffffff;
+}
+.cid-qHUQq7U5Yh .btn-social {
+  border: none !important;
+}
+.cid-qHUQq7U5Yh [class^="socicon-"]:before,
+.cid-qHUQq7U5Yh [class*=" socicon-"]:before {
+  line-height: 44px;
+}
+@media (max-width: 767px) {
+  .cid-qHUQq7U5Yh .btn {
+    font-size: 20px !important;
   }
 }
 .cid-qGuZsWPgsw {
