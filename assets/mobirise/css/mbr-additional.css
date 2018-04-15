@@ -3313,7 +3313,7 @@ body {
   }
 }
 .cid-qMWRdYpJLm {
-  padding-top: 90px;
+  padding-top: 120px;
   padding-bottom: 90px;
   background-color: #cc2952;
 }
@@ -3338,4 +3338,7 @@ body {
 .cid-qMWRdYpJLm .input-group-btn {
   display: block;
   text-align: center;
+}
+.cid-qMWRdYpJLm H2 {
+  text-align: left;
 }
