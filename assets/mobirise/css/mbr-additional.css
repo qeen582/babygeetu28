@@ -1415,3 +1415,46 @@ body {
   padding-bottom: 120px;
   background-color: #ffffff;
 }
+.cid-qZujvPV1z1 {
+  padding-top: 45px;
+  padding-bottom: 0px;
+  background-color: #efefef;
+}
+.cid-qZujvPV1z1 .card-img a {
+  display: block;
+  padding-top: 2rem;
+}
+.cid-qZujvPV1z1 .card-box {
+  padding: 0 2rem;
+}
+.cid-qZujvPV1z1 .mbr-section-btn {
+  padding-top: 1rem;
+}
+.cid-qZujvPV1z1 .mbr-section-btn a {
+  margin-top: 1rem;
+  margin-bottom: 0;
+}
+.cid-qZujvPV1z1 h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 2rem;
+}
+.cid-qZujvPV1z1 p {
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 1.5rem;
+}
+.cid-qZujvPV1z1 .mbr-text {
+  color: #767676;
+}
+.cid-qZujvPV1z1 .card-wrapper {
+  padding-bottom: 2rem;
+  background: #ffffff;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-qZujvPV1z1 .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
